@@ -1,1 +1,20 @@
-
+[
+  {
+    "title": "Mandante perfeito",
+    "description": "Cruzeiro se aproxima de sequência recorde de vitórias na Série B",
+    "image": "https://s2.glbimg.com/CJuBx9Xlu1cqc8jNS6j6GuXHcIU=/0x0:2047x1365/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/R/r/57hWuCRoyOOfBiAN7MLg/mineirao-cruzeiro.jpg",
+    "link": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2022/08/04/mandante-perfeito-cruzeiro-se-aproxima-de-sequencia-recorde-de-vitorias-na-serie-b-veja-os-numeros.ghtml"
+  },
+  {
+    "title": "Palmeiras transforma jogo",
+    "description": "Verdão sai perdendo por 2 a 0 jogando mal, mas busca o empate no Mineirão para manter invencibilidade na Libertadores e reverter ampla vantagem que o Atlético-MG chegou a abrir",
+    "image": "https://s2.glbimg.com/8E26bbW8LI9cwxvhHUi2tReGmHo=/0x0:3877x2585/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/M/E/Ha7XElRha4MxACFgGAhQ/52262000169-a5a95a25cd-o.jpg",
+    "link": "https://ge.globo.com/futebol/times/palmeiras/noticia/2022/08/04/analise-palmeiras-transforma-jogo-desastroso-em-resultado-gigante-na-resiliencia-de-um-bicampeao.ghtml"
+  },
+   {
+    "title": "Benfica goleia",
+    "description": "Com duas assistências de David Neres na fase prévia",
+    "image": "https://s2.glbimg.com/G4HMbXMHt-1TLP79H72fWAI2sxs=/0x0:3312x2004/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/I/1/7Kr13KTySqRC7k803MvQ/gettyimages-1242271141.jpg",
+    "link": "https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes/noticia/2022/08/02/champions-benfica-goleia-com-duas-assistencias-de-david-neres-na-fase-previa.ghtml"
+  }
+]
